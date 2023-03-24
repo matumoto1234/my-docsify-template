@@ -1,6 +1,8 @@
-# web-cheetsheet
+# my-docsify-template
 
-## ローカルでのビルド方法
+docsifyを使うためにいろんなプラグインを入れたテンプレ
+
+## ローカルでの立ち上げ方法
 
 ```bash
 npx docsify serve ./docs
