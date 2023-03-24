@@ -12,11 +12,19 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
+      loadSidebar: true,
       name: '',
-      repo: ''
+      repo: '',
+      pagination: {
+        previousText: '前のページ',
+        nextText: '次のページ',
+        crossChapter: true,
+        crossChapterText: true,
+      },
     }
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
 </body>
 </html>
