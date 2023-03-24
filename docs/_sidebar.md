@@ -13,3 +13,4 @@
 
   - [mermaid](fuga/mermaid.md)
   - [latex](fuga/latex.md)
+  - [runkit](fuga/runkit.md)
